@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GNOME Flashback (stumpwm)
+Comment=This session logs you into GNOME Flashback with stumpwm
+Exec=stumpwm-gnome-flashback-session
+TryExec=stumpwm
+Type=Application
+DesktopNames=stumpwm-GNOME-Flashback;GNOME-Flashback;GNOME;
